@@ -31,7 +31,7 @@ Cuda 11.7
 
    ```bash
    git clone https://github.com/idrisrupt/ContentTranslator.git
-   cd video_processing_tool
+   cd ContentTranslator
    ```
 
 2. Install Env:
