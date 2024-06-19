@@ -1,0 +1,8 @@
+!pip install gspread google-auth pandas -q
+!pip install pytube -q
+!pip install moviepy -q
+!pip install googletrans==4.0.0-rc1 -q
+!pip install spleeter==2.4.0
+!pip install TTS -q
+!pip install gTTS -q
+!pip install git+https://github.com/m-bain/whisperx.git -q
